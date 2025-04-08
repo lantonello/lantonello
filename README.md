@@ -67,6 +67,6 @@
 
 - 🔭 I’m currently working on a **new private project**
 - 🌱 I’m currently learning **software architecture**
-- 📫 How to reach me: (LinkedIn)[https://www.linkedin.com/in/leandroantonello/]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leandroantonello/)
 - ⚡ Fun fact: I used to be a professional musician
 
